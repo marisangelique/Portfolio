@@ -1,0 +1,51 @@
+body{
+  background: linear-gradient(to bottom, white, rgb(112,128,144));
+}
+
+h1, h3{
+  color: #000000;
+  position: absolute;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1{
+  font-size: 30px;
+  top: 5%;
+  padding: 1%;
+}
+
+h3{
+  font-size: 30px;
+  top: 10%;
+  padding: 1%;
+}
+
+.btn{
+  position: absolute;
+  background: transparent;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  border-color: #708090;
+}
+
+.enter{
+  top: 50%;
+  width: 6%;
+  margin-left: -7%;
+}
+
+.about{
+  top: 50%;
+  width: 6%;
+}
+
+.card-title{
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.back{
+  margin-top: 150px;
+  width: 100px;
+  margin-left: -45px;
+}
